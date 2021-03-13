@@ -944,7 +944,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1376328015069180474}
   m_Layer: 0
-  m_Name: CastelZonePlusRiverWalls
+  m_Name: +++CastelZonePlusRiverWalls
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -18404,6 +18404,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6346843367211197422, guid: 4efd0bee38ca03e4594ec57fc9b961dc, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 21812582871473324, guid: f171bd0e92412e14fb3e3397909d62f1, type: 3}
+    - target: {fileID: 6346843367211197422, guid: 4efd0bee38ca03e4594ec57fc9b961dc, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 21593000365640380, guid: f171bd0e92412e14fb3e3397909d62f1, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4efd0bee38ca03e4594ec57fc9b961dc, type: 3}
 --- !u!4 &1148724778309417625 stripped
